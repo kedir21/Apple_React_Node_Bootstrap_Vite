@@ -1,0 +1,22 @@
+.product-title5 {
+	color: #111111;
+	line-height: 20px;
+	padding-top: 20px;
+	font-weight: 900;
+	font-size: 40px;
+}
+
+.brief-description5 {
+	padding-top: 20px;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.fifth-section .left-side-wrapper {
+	background-image: url("../../../commonResource/Images/march9apple2023/5left.jpg");
+}
+
+.fifth-section .right-side-wrapper {
+	background-image: url("../../../commonResource/Images/march9apple2023/5right.jpg");
+}

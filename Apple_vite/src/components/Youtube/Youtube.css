@@ -1,0 +1,32 @@
+.allVideosWrapper {
+  margin-top: 2rem;
+}
+
+.title-wraper {
+  font-size: 2.5rem;
+  /* margin-bottom: 2rem; */
+}
+
+.singleVideoWrapper {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  width: 600px;
+  height: 500px;
+}
+
+.videoThumbnail img {
+  width: 80%;
+}
+
+.videoTitle a {
+  color: #333;
+  font-size: 1.0rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.videoDesc {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  color: #666;
+}

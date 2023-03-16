@@ -1,0 +1,52 @@
+.left-side-wrapper {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: bottom;
+	text-align: center;
+	margin: 1% 0.5% 1% 1%;
+	height: 590px;
+}
+.brief-description4 {
+	padding-top: 10px;
+	color: #000000;
+	font-size: 20px;
+	font-weight: 400;
+}
+.fourth .left-side-wrapper {
+	background-image: url("../../../commonResource/Images/march9apple2023/4left.jpg");
+}
+.right-side-wrapper {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: bottom;
+	text-align: center;
+	margin: 1% 0.5% 1% 1%;
+	height: 590px;
+}
+
+.fourth .right-side-wrapper {
+	background-image: url("../../../commonResource/Images/march9apple2023/4right.jpg");
+}
+
+.product-title5 {
+	color: #111111;
+	line-height: 20px;
+	padding-top: 20px;
+	font-weight: 900;
+	font-size: 40px;
+}
+
+.brief-description5 {
+	padding-top: 20px;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.fifth-section .left-side-wrapper {
+	background-image: url("../../../commonResource/Images/march9apple2023/5left.jpg");
+}
+
+.fifth-section .right-side-wrapper {
+	background-image: url("../../../commonResource/Images/march9apple2023/5right.jpg");
+}

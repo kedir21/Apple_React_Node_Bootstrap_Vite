@@ -1,0 +1,71 @@
+/* ..........firstsection................................. */
+.first-section {
+	background-image: url(../../../commonResource/Images/march9apple2023/First.jpg);
+	padding: 10px 0;
+	color: white;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	width: 100%;
+	height: 600px;
+}
+.product-title {
+	line-height: 25px;
+	margin-top: 50px;
+	font-weight: 500;
+	font-size: 40px ;
+}
+
+.brief-description {
+	margin-top: 30px;
+	color:#6E6E73;
+	font-size: 17px;
+}
+.alert{
+	height: 30px;
+	background-color: #F5F5F7;
+	margin-top: 40px;
+}
+.second-section{
+	background-image: url(../../../commonResource/Images/march9apple2023/Second.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	height: 600px;
+
+}
+.product-title2 {
+	color: #ffffff;
+	line-height: 20px;
+	padding-top: 40px;
+	font-weight: 700;
+	font-size: 56px;
+}
+
+.brief-description2 {
+	padding-top: 30px;
+	color: #fdfdff;
+	font-size: 27px;
+}
+.third-section{
+	background-image: url(../../../commonResource/Images/march9apple2023/third.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 600px;
+}
+.product-title3 {
+	color: #ffffff;
+	line-height: 20px;
+	padding-top: 40px;
+	font-weight: 700;
+	font-size: 56px;
+}
+.brief-description3 {
+	padding-top: 30px;
+	color: #ffffff;
+	font-size: 27px;
+}

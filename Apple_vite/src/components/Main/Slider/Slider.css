@@ -1,0 +1,21 @@
+/* --------------slider--section----------------------------------*/
+.carousel-item{
+	position: relative;
+	margin-top: 20px;
+	height: 500px;
+}
+.btn{
+	position: absolute;
+	background-color: rgb(255, 255, 255);
+	color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 25px;
+	bottom:10px;
+	left: 5px;
+}
+.carousel-item p{
+	position: absolute;
+	bottom: 5px;
+	left :220px;
+}
