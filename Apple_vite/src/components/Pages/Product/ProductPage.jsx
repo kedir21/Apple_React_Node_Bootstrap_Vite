@@ -10,7 +10,8 @@ const { ProductID } = useParams();
 
   useEffect(() => {
 
-    fetch("http://localhost:3000/iphones")
+    fetch("/iphone.json")
+    //http://localhost:3000/iphones
       .then((res) => res.json())
       .then((data)=>{
         const productList = data.products;
